@@ -1,0 +1,1 @@
+"""Braille Vision AI — FastAPI backend package."""

@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+tensorflow
+opencv-python
+numpy
+pillow
+python-louis
+scikit-learn
+matplotlib
+pandas
+pytest
+httpx

@@ -1,0 +1,1 @@
+"""Model artifacts package (best_model.keras, class_mapping.json)."""
