@@ -1,0 +1,13 @@
+tensorflow>=2.15
+numpy
+pandas
+pillow
+opencv-python-headless
+scikit-learn
+matplotlib
+tqdm
+
+# Liblouis (Partie 8) : les bindings Python NE s'installent PAS via ce fichier.
+# Le package pip "louis" est un paquet sans rapport avec liblouis (verifie).
+# Installer via apt avant utilisation de src/translator.py :
+#   apt-get install -y liblouis-bin liblouis-data python3-louis
